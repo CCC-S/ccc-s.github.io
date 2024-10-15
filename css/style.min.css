@@ -2,6 +2,16 @@
  *	Resto by GetTemplates.co
  *	URL: https://gettemplates.co
  */
+
+.ins-logo {
+  text-align: right;
+}
+
+.ins-logo i{
+  font-size: 30px;
+
+}
+
 html {
   overflow-x: hidden; }
 
