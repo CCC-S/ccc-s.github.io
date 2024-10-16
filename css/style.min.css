@@ -3,6 +3,10 @@
  *	URL: https://gettemplates.co
  */
 
+.signature {
+  text-align: right;
+}
+
 .ins-logo {
   text-align: right;
 }
